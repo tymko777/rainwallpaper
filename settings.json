@@ -1,0 +1,15 @@
+{
+  "rainIntensity": 1.0,
+  "rainSpeed": 0.38,
+  "brightness": 0.6,
+  "rainNormal": 0.8,
+  "rainZoom": 1.0,
+  "lightning": false,
+  "blurQuality": 64,
+  "blurIntensity": 1.5,
+  "parallaxIntensity": 0,
+  "panning": false,
+  "postProcessing": true,
+  "fps": 120,
+  "scaleToFill": true
+}
